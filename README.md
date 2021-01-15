@@ -1,2 +1,3 @@
-# Ola-Mundo
- Meu primeiro repositório
+# Olá, Mundo!
+
+ Meu primeiro repositório, criado em uma aula!
